@@ -1,7 +1,6 @@
-# Alarm-App-with-Swift
+# Alarm App with Swift
 
 Xcode version 14.2 
-
 
 İOS version 16.2 
 
