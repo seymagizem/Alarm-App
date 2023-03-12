@@ -1,10 +1,4 @@
-//
-//  SchedulerTestCase.swift
-//  Alarm-ios-swiftTests
-//
-//  Created by natsu1211 on 2018/01/18.
-//  Copyright © 2018年 LongGames. All rights reserved.
-//
+
 
 import XCTest
 @testable import Alarm_ios_swift
