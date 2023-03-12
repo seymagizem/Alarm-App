@@ -1,10 +1,4 @@
-//
-//  labelEditViewController.swift
-//  Alarm-ios-swift
-//
-//  Created by longyutao on 15/10/21.
-//  Copyright (c) 2015年 LongGames. All rights reserved.
-//
+
 
 import UIKit
 
