@@ -1,10 +1,4 @@
-//
-//  MusicViewController.swift
-//  Alarm-ios-swift
-//
-//  Created by longyutao on 16/2/3.
-//  Copyright (c) 2016年 LongGames. All rights reserved.
-//
+
 
 import UIKit
 import MediaPlayer
