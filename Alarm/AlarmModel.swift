@@ -1,11 +1,4 @@
-//
-//  AlarmModel.swift
-//  Alarm-ios-swift
-//
-//  Created by longyutao on 15-2-28.
-//  Updated on 17-01-24
-//  Copyright (c) 2015年 LongGames. All rights reserved.
-//
+
 
 import Foundation
 import MediaPlayer
